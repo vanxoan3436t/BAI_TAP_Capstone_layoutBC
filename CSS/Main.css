@@ -9,7 +9,6 @@ Author: W3layouts
 Author URL: http://w3layouts.com
 */
 
-
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -74,9 +73,6 @@ Author URL: http://w3layouts.com
   margin-left: .3em; }
 
 
-
-
-
 *,
 *::before,
 *::after {
@@ -100,9 +96,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff; }
-
-
-
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -157,8 +150,6 @@ p {
     max-width: 1140px; } }
 
 
-
-
 .table-responsive {
   display: block;
   width: 100%;
@@ -166,8 +157,6 @@ p {
    }
   .table-responsive > .table-bordered {
     border: 0; }
-
-
 
 a.btn.disabled,
 fieldset:disabled a.btn {
@@ -200,13 +189,6 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(225, 105, 135, 0.5); }
 
 
-
-
-
-
-
-
-
 .btn-outline-primary {
   color: #dc4f72;
   border-color: #dc4f72; }
@@ -228,10 +210,6 @@ fieldset:disabled a.btn {
     .show > .btn-outline-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(220, 79, 114, 0.5); }
 
-
-
-
-
 :root {
   --primary: #dc4f72;
   --secondary: #0d5fa8;
@@ -242,8 +220,6 @@ fieldset:disabled a.btn {
   --card-box-shadow: 1px 5px 7.5px rgba(196, 196, 196, 0.2);
   --card-hover-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.09);
   --transformY: translateY(-0.5rem); }
-
-
 
 
 ul,
@@ -437,18 +413,6 @@ p {
   .header-section h2 {
     font-size: 36px;
     line-height: 42px; } }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .w3l-index1 {
@@ -1217,8 +1181,6 @@ h2.resp-accordion:first-child {
   overflow: hidden;
    }
 
-
-
 .owl-carousel .owl-item {
   min-height: 1px;
   float: left;
@@ -1748,4 +1710,3 @@ button.owl-next {
   line-height: 24.5px;
   color: var(--text-color);
   margin-top: 16px; }
-
