@@ -4,6 +4,11 @@
     font-family: 'Nunito', sans-serif;
 }
 /* linhhuynh */
+/* 
+Author: W3layouts
+Author URL: http://w3layouts.com
+*/
+
 
 .fa {
   display: inline-block;
@@ -69,9 +74,6 @@
   margin-left: .3em; }
 
 
-
-
-
 *,
 *::before,
 *::after {
@@ -95,9 +97,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff; }
-
-
-
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -152,8 +151,6 @@ p {
     max-width: 1140px; } }
 
 
-
-
 .table-responsive {
   display: block;
   width: 100%;
@@ -161,8 +158,6 @@ p {
    }
   .table-responsive > .table-bordered {
     border: 0; }
-
-
 
 a.btn.disabled,
 fieldset:disabled a.btn {
@@ -215,6 +210,9 @@ fieldset:disabled a.btn {
     .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(220, 79, 114, 0.5); }
+
+
+
 
 
 :root {
@@ -1717,4 +1715,3 @@ button.owl-next {
   line-height: 24.5px;
   color: var(--text-color);
   margin-top: 16px; }
-
