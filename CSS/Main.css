@@ -442,6 +442,10 @@ header {
     border: 1px solid #eee;
 }
 
+.stats .stats_info:hover{
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.09);
+}
+
 .stats .stats_info h4 {
     font-size: 16px;
     line-height: 24.5px;
